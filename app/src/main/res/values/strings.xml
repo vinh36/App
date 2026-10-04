@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fix Lag Turbo</string>
+    <string name="tab_dashboard">Tổng quan</string>
+    <string name="tab_booster">Tăng tốc</string>
+    <string name="tab_games">Game Box</string>
+    <string name="tab_network">Mạng &amp; Ping</string>
+    <string name="tab_tools">Công cụ</string>
+    <string name="btn_boost_now">TĂNG TỐC NGAY</string>
+    <string name="btn_optimizing">ĐANG FIX LAG…</string>
+    <string name="status_system_optimal">Hệ thống đang mượt mà</string>
+    <string name="status_need_boost">Cảnh báo: Bộ nhớ đầy, có thể giật lag</string>
+</resources>

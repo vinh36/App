@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fix Lag Turbo",
+  "description": "Ứng dụng tối ưu hóa hệ thống, dọn dẹp RAM, giảm ping mạng và fix giật lag chơi game siêu tốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
